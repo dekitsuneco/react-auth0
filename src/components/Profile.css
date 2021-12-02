@@ -1,0 +1,43 @@
+
+h1,
+h2,
+h3 {
+    margin: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+ul {
+    margin: 0;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.card {
+    width: 700px;
+    padding: 2.5rem 2rem;
+    background: #2c3039;
+}
+
+.card-list {
+    font-size: 14px;
+}
+
+.title {
+    font-size: 18px;
+    line-height: 1;
+}
+
+span {
+    color: white;
+    font-size: 3em;
+}
+
+h3 {
+    color: white;
+    font-size: 0.9em;
+}
+
+.border-bottom {
+    border-bottom: 1px solid rgba(138, 148, 167, 0.24);
+}
